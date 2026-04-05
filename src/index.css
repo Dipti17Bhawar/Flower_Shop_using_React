@@ -71,8 +71,8 @@ body {
 }
 button {
   padding: 8px 15px;
-  background: #d4b640;
-  color: white;
+  background:rgb(186, 158, 109);
+  color:white;
   border: none;
   border-radius: 5px;
   cursor: pointer;
